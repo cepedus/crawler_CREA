@@ -1,2 +1,3 @@
-# crawler_CREA
-For research purposes
+# Crawler para el corpus CREA
+
+Extrae y guarda coincidencias según año y término de búsqueda
